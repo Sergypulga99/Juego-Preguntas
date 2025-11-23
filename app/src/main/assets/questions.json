@@ -1,0 +1,82 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "respuesta": "París."
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna?",
+    "respuesta": "1969."
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "respuesta": "El Amazonas (según algunos criterios) o el Nilo."
+  },
+  {
+    "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "respuesta": "Miguel de Cervantes Saavedra."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula química del agua?",
+    "respuesta": "H₂O."
+  },
+  {
+    "pregunta": "¿Cuántos continentes hay en la Tierra?",
+    "respuesta": "Siete."
+  },
+  {
+    "pregunta": "¿Cuál es la moneda de Japón?",
+    "respuesta": "El yen."
+  },
+  {
+    "pregunta": "¿Qué gas respiramos que es esencial para la vida?",
+    "respuesta": "Oxígeno."
+  },
+  {
+    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "respuesta": "Mercurio."
+  },
+  {
+    "pregunta": "¿Quién pintó la Mona Lisa?",
+    "respuesta": "Leonardo da Vinci."
+  },
+  {
+    "pregunta": "¿Cuál es el idioma más hablado en el mundo?",
+    "respuesta": "El mandarín (chino mandarín)."
+  },
+  {
+    "pregunta": "¿En qué ciudad se encuentra la Sagrada Familia?",
+    "respuesta": "Barcelona."
+  },
+  {
+    "pregunta": "¿Qué instrumento mide la presión atmosférica?",
+    "respuesta": "El barómetro."
+  },
+  {
+    "pregunta": "¿Cuál es la montaña más alta del mundo?",
+    "respuesta": "El Monte Everest."
+  },
+  {
+    "pregunta": "¿Qué órgano bombea la sangre en el cuerpo?",
+    "respuesta": "El corazón."
+  },
+  {
+    "pregunta": "¿Cuántos elementos hay en la tabla periódica (aprox.)?",
+    "respuesta": "Alrededor de 118 elementos reconocidos."
+  },
+  {
+    "pregunta": "¿Qué país produjo la pizza?",
+    "respuesta": "Italia (orígenes en Nápoles)."
+  },
+  {
+    "pregunta": "¿Qué es la fotosíntesis?",
+    "respuesta": "Proceso por el cual las plantas convierten luz en energía química."
+  },
+  {
+    "pregunta": "¿Quién es conocido por la teoría de la relatividad?",
+    "respuesta": "Albert Einstein."
+  },
+  {
+    "pregunta": "¿Qué día se celebra la Navidad?",
+    "respuesta": "El 25 de diciembre."
+  }
+]
